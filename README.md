@@ -7,7 +7,9 @@
 -📫 Как связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Crystalscores) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](4441594@mail.ru)
 
 -🔭 В настоящее время я работаю над своими практическими навыками:
+
 Моя тестовая коллекция в Postman: https://www.postman.com/crystalscore/workspace/test/collection/41276114-86f75a7b-77d4-4680-8426-70062a86c3f2?action=share&source=copy-link&creator=41276114
+
 Моя тестовая документация по тестированию API и GUI:https://team-0j1h.testit.software/projects/1
 
 -🌱 В настоящее время я изучаю право в Российском государственном университете правосудия и нотариата.
